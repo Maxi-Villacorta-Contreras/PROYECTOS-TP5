@@ -1,0 +1,6 @@
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio6\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio6\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio6\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio6\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csprojResolveAssemblyReference.cache
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio6\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio6\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb

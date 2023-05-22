@@ -1,0 +1,5 @@
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP5-MaxiVillacorta.C\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
